@@ -1,0 +1,23 @@
+{
+  "name": "express-session-rbac",
+  "version": "1.0.0",
+  "description": "## **Objective** - Set up a new Express project. - Implement middleware to protect routes. - Understand role-based access control and its importance. - Implement registration and login functionality with role-based access control (RBAC).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.1",
+    "next": "^15.1.0",
+    "node": "^23.4.0",
+    "nodemon": "^3.1.9"
+  }
+}
