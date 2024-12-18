@@ -41,7 +41,7 @@
 
 ![Alt text](imgs/get-admin.png)
 
-- [x] Access Admin Route as Regular User: Method: GET: URL: http://localhost:3000/admin
+- [x] Access Admin Route as Regular User: Method: GET: URL: http://localhost:3001/admin
 
 ![Alt text](imgs/user-unauthorized.png)
 
